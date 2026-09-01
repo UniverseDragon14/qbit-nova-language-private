@@ -1,11 +1,14 @@
 # QBIT NOVA Language
 
+> **Private mirror/archive:** this repository checkpoints the public QBIT NOVA Language line. The canonical public project is https://github.com/UniverseDragon14/qbit-nova-language. Keep this copy private unless a separate publication is intentionally required.
+
+
 > Status: **Experimental — active development — unfinished**
 
 QBIT NOVA Language is a Universal Dragon language project created by
 **Aslam / Universal Dragon**.
 
-This public repository is a development preview. It is not currently a
+The canonical public repository is a development preview; this repository is its private mirror/checkpoint. It is not currently a
 finished general-purpose language, stable compiler, or production runtime.
 
 ## Current publication
